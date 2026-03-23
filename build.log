@@ -1,0 +1,38 @@
+
+> 4points-contractors@0.1.0 build
+> next build
+
+  Γû▓ Next.js 14.2.3
+
+   Creating an optimized production build ...
+ Γ£ô Compiled successfully
+   Skipping validation of types
+   Skipping linting
+   Collecting page data ...
+   Generating static pages (0/10) ...
+   Generating static pages (2/10) 
+   Generating static pages (4/10) 
+   Generating static pages (7/10) 
+ Γ£ô Generating static pages (10/10)
+   Finalizing page optimization ...
+   Collecting build traces ...
+
+Route (app)                              Size     First Load JS
+Γöî Γùï /                                    49 kB           143 kB
+Γö£ Γùï /_not-found                          871 B          87.9 kB
+Γö£ Γùï /bakersfield-remodels                178 B          93.9 kB
+Γö£ Γùï /contact                             145 B          87.1 kB
+Γö£ Γùï /faq                                 145 B          87.1 kB
+Γö£ Γùï /projects                            145 B          87.1 kB
+Γö£ Γùï /services                            178 B          93.9 kB
+Γö£ ╞Æ /services/[slug]                     178 B          93.9 kB
+Γöö Γùï /sitemap.xml                         0 B                0 B
++ First Load JS shared by all            87 kB
+  Γö£ chunks/23-15b40c9d7196da5d.js        31.5 kB
+  Γö£ chunks/fd9d1056-211f0c774853bd6b.js  53.6 kB
+  Γöö other shared chunks (total)          1.89 kB
+
+
+Γùï  (Static)   prerendered as static content
+╞Æ  (Dynamic)  server-rendered on demand
+
