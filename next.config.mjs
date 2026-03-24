@@ -5,10 +5,10 @@ const nextConfig = {
     formats: ['image/avif', 'image/webp'],
   },
   eslint: {
-    ignoreDuringBuilds: true,
+    ignoreDuringBuilds: false,
   },
   typescript: {
-    ignoreBuildErrors: true,
+    ignoreBuildErrors: false,
   },
 };
 
